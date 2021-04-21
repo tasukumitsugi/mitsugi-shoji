@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1270px" height="286px" viewBox="0 0 1270 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Urban Co Logo White</title>
+    <g id="Urban-Co-Logo-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="URBAN-Co." font-family="OldStandardTT-Bold, Old Standard TT" font-size="200" font-weight="bold" fill="#FDFDFD">
+            <tspan x="21.2" y="190">URBAN Co.</tspan>
+        </text>
+        <line x1="1061" y1="250" x2="833" y2="250" id="Path" stroke="#FDFDFD" stroke-width="14"></line>
+        <line x1="1243" y1="101" x2="1098" y2="250" id="Path" stroke="#FDFDFD" stroke-width="14"></line>
+    </g>
+</svg>
