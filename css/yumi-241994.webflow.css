@@ -483,7 +483,8 @@ strong {
 .image.about-us-overflow-image.about-page {
   height: 500px;
   min-height: 50vh;
-  background-image: url('../images/id-interiors-VWt1BBQwwtU-unsplash.jpg');
+  /*background-image: url('../images/id-interiors-VWt1BBQwwtU-unsplash.jpg');*/
+  background-image: url('../images/yumi/4.jpeg');
 }
 
 .image.coming-soon-image {
@@ -494,7 +495,8 @@ strong {
 
 .image.about-1 {
   min-height: auto;
-  background-image: url('../images/karina-kegy-Ot700C_igl8-unsplash.jpg');
+  /*background-image: url('../images/karina-kegy-Ot700C_igl8-unsplash.jpg');*/
+  background-image: url('../images/yumi/3.jpeg');
 }
 
 .image.slider-top-image {
