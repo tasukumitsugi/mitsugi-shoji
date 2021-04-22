@@ -279,7 +279,7 @@ strong {
   border-style: none;
   border-width: 3px 3px 3px 5px;
   border-color: #ffbf52 #ff6152 #ffbf52 #ffbf52;
-  background-image: url('../images/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg');
+  background-image: url('../images/yumi/1.jpeg');
   background-position: 50% 50%;
   background-size: cover;
   box-shadow: 8px 8px 30px 8px rgba(0, 0, 0, 0.1);
@@ -313,7 +313,8 @@ strong {
   right: 0%;
   bottom: 0%;
   overflow: hidden;
-  background-image: url('../images/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg');
+  /*background-image: url('../images/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg');*/
+  background-image: url('../images/yumi/1.jpeg');
   background-position: 50% 50%;
   background-size: cover;
   opacity: 0.24;
