@@ -287,7 +287,8 @@ strong {
 }
 
 .hero-right.contact {
-  background-image: url('../images/nastuh-abootalebi-yWwob8kwOCk-unsplash.jpg');
+  /*background-image: url('../images/nastuh-abootalebi-yWwob8kwOCk-unsplash.jpg');*/
+  background-image: url('../images/yumi/6.jpeg');
 }
 
 .hero-right.about {
@@ -322,7 +323,8 @@ strong {
 }
 
 .bg-hero-image.contact {
-  background-image: url('../images/pavl-polo-ExHL30Gqfbc-unsplash.jpg');
+  /*background-image: url('../images/pavl-polo-ExHL30Gqfbc-unsplash.jpg');*/
+  background-image: url('../images/yumi/6.jpeg');
 }
 
 .bg-hero-image.about {
