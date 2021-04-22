@@ -477,7 +477,8 @@ strong {
 
 .image.about-us-overflow-image {
   margin-right: -55%;
-  background-image: url('../images/kenny-luo-kte1v6HVmtI-unsplash.jpg');
+  /*background-image: url('../images/kenny-luo-kte1v6HVmtI-unsplash.jpg');*/
+  background-image: url('../images/yumi/5.jpeg');
 }
 
 .image.about-us-overflow-image.about-page {
