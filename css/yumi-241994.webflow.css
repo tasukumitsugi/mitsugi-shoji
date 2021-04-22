@@ -291,7 +291,8 @@ strong {
 }
 
 .hero-right.about {
-  background-image: url('../images/jossuha-theophile-hacw2bE4u0c-unsplash.jpg');
+  /*background-image: url('../images/jossuha-theophile-hacw2bE4u0c-unsplash.jpg');*/
+  background-image: url('../images/yumi/2.jpeg');
 }
 
 .hero-right.press {
@@ -325,7 +326,8 @@ strong {
 }
 
 .bg-hero-image.about {
-  background-image: url('../images/jossuha-theophile-hacw2bE4u0c-unsplash.jpg');
+  /*background-image: url('../images/jossuha-theophile-hacw2bE4u0c-unsplash.jpg');*/
+  background-image: url('../images/yumi/2.jpeg');
 }
 
 .bg-hero-image.press {
