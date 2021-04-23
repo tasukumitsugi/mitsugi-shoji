@@ -23,7 +23,7 @@ h1 {
   margin-top: 20px;
   margin-bottom: 0px;
   color: #fdfdfd;
-  font-size: 4vw;
+  font-size: 7vw;
   line-height: 9vw;
   font-weight: 700;
 }
@@ -303,7 +303,7 @@ strong {
 .hero-h1 {
   position: relative;
   z-index: 1;
-  width: 100%;
+  width: 80vw;
   padding-top: 5%;
   padding-left: 80px;
 }
