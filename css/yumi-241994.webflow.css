@@ -1,6 +1,7 @@
 a[href^=tel] {
     color: inherit;
     text-decoration: none;
+    font-family: 'Noto Serif JP', serif;
 }
 
 .w-layout-grid {
